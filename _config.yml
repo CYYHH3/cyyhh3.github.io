@@ -101,10 +101,10 @@ service-worker: true
 friends: [
     {
         title: "Apple",
-        href: "https://apple.com.cn"
+        href: "https://www.apple.com.cn"
     },{
         title: "Apple Developer",
-        href: "https://developer.apple.com/zh-cn"
+        href: "https://developer.apple.com/cn"
     },{
         title: "",
         href: ""
