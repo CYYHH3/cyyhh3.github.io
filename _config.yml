@@ -83,9 +83,9 @@ gitalk:
 ba_track_id: a144988519905e1e81242df24207b27a
 
 # Google Analytics
-ga_track_id: 'G-N7YR3YWFYP'
+ga_track_id: 'G-0ZG1PX570Z'
 # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-ga_domain: auto
+ga_domain: blog.cyyb.tk
 
 ## 标签设置
 # 是否使用首页标签
