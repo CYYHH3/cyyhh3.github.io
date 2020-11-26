@@ -100,16 +100,16 @@ service-worker: true
 ## 友情链接
 friends: [
     {
-        title: "帅超",
-        href: "https://github.com/shuaichaoA"
-    },{
-        title: "鸡大婶",
-        href: "https://github.com/ruinszero"
-    },{
         title: "Apple",
-        href: "https://apple.com"
+        href: "https://apple.com.cn"
     },{
         title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        href: "https://developer.apple.com/zh-cn"
+    },{
+        title: "",
+        href: ""
+    },{
+        title: "",
+        href: ""
     }
 ]
