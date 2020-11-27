@@ -94,7 +94,7 @@ description: "I guess it comes down to a simple choice:get busy living or get bu
 
 将 `_config.yml` 文件中 `url` 修改为 `https://"你的GitHub用户名" + .github.io`, 清空CNAME文件内容并提交，再将项目名称修改为 `你的GitHub用户名 .github.io` ，如下图
 
-![](http://ww1.sinaimg.cn/large/005yqb1Zly1g0n17uz8d8j31jo0v842k.jpg)
+![](/img/2019-03-01-quicksetupblog/03.jpg)
 
 点击 `Rename` 按钮后，你就可以在网页输入 `https://"你的GitHub用户名".github.io`  查看效果了。至此已经完成了一半啦，剩余的就是一些你专属的配置了。
 
@@ -123,7 +123,7 @@ tags:
 
 看右边：
 
-![](http://ww1.sinaimg.cn/large/005yqb1Zly1g0n18koc6hj31jo0v8n1y.jpg)
+![](/img/2019-03-01-quicksetupblog/04.jpg)
 
 关于侧边栏的设置是在 `_config.yml` 中：
 
