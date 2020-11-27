@@ -12,3 +12,6 @@ tags:
 
 # Hello World!
 My First Blog!
+
+# Some Resources
+1. [音乐解锁1](https://www.cyyb.tk/music-unlock/)，[音乐解锁2](https://blog.cyyb.tk/music-unlock/)
