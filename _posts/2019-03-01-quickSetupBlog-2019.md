@@ -218,7 +218,7 @@ friends: [
 2. 进入[设置页面](https://disqus.com/home/settings/profile/)配置个人信息：
  ![](/img/2019-03-01-quicksetupblog/06.jpg)
 3. 在左侧菜单栏选择 `Account` ，并找到 `Username` 。
- ![](http://ww1.sinaimg.cn/large/005yqb1Zly1g0n19yzb04j31jo0v8dju.jpg)
+ ![](/img/2019-03-01-quicksetupblog/07.jpg)
 `Username`  对应着 `_config.yml` 中  `disqus_username` ：
 
 ```
