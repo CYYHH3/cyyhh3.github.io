@@ -39,7 +39,7 @@ tags:
     * [网站分析](#网站分析)
     
 ### 起步
-![](http://ww1.sinaimg.cn/large/005yqb1Zly1g0n1697dd8j31jo0v80we.jpg)
+![](/img/2019-03-01-quicksetupblog/02.jpg)
 
 首先你需要点击跳转到 [我的仓库](https://github.com/superZhouDaLu/superzhoudalu.github.io)，点击右上角 **fork** 按钮将此项目拉取到你的仓库下。
 
