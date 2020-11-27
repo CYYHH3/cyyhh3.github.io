@@ -11,7 +11,7 @@ tags:
 ---
 
 
-![](https://s3.ax1x.com/2020/11/27/DDpROg.jpg)
+![](/img/quicksetupblog-2019-1.jpg)
 
 >
 ### 前言
