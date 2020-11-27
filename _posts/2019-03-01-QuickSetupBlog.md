@@ -4,7 +4,7 @@ title:      快速搭建个人博客
 subtitle:   极其简单的搭建教程
 date:       2019-03-01
 author:     SuperZhouDaLu
-header-img: img/post-bg-github-cup.jpg
+header-img: img/home-bg-o.jpg
 catalog: true
 tags:                              
     - 笔记
