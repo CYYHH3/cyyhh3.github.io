@@ -155,7 +155,7 @@ featured-condition-size: 0
 
 ### 社交账号
 
-![](http://ww1.sinaimg.cn/large/005yqb1Zly1g0n18vvg9ej307s01t0sl.jpg)
+![](/img/2019-03-01-quicksetupblog/05.jpg)
 
 目前支持`微博`、`知乎`、`GitHub`、`Facebook`、`简书`、`Twitter`社交账号链接，未罗列的暂不支持，可以自己手动集成。相关配置在 `_config.yml` 中：
 
