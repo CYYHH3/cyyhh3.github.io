@@ -11,7 +11,7 @@ tags:
 ---
 
 
-![](/img/quicksetupblog-2019-1.jpg)
+![](/img/2019-03-01-quicksetupblog/01.jpg)
 
 >
 ### 前言
