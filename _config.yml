@@ -27,15 +27,15 @@ sidebar-avatar: /img/apple-touch-icon.png
 ## 社交网站设置
 RSS: false
 # 微博 打开个人主页截取用户编号 例如个人主页网址为https://weibo.com/u/5089298519 填写 5089298519
-weibo_username:     
+weibo_username:    
 # 知乎个人页面 填写用户名
-zhihu_username:     
+zhihu_username:    cyyh3
 # GitHub个人页面 填写用户名
 github_username:    cyyhh3
 # facebook个人页面 填写用户名
-#facebook_username:  
+#facebook_username:    
 # 简书个人页面截取用户编号 与微博同理
-jianshu_username:   
+jianshu_username:    
 # twitter个人页面 填写用户名
 #twitter_username:   
 
