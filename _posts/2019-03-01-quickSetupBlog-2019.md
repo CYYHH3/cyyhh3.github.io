@@ -235,7 +235,7 @@ disqus_username: superZhoudalu
 **使用：**
 
 1. Gitalk 需要一个 Github Application，[点击这里申请](https://github.com/settings/applications/new)。填写以下参数：
- ![](http://ww1.sinaimg.cn/large/005yqb1Zly1g0n1a9u9c8j31jo0v8jw0.jpg)
+ ![](/img/2019-03-01-quicksetupblog/08.jpg)
 2.  点击创建，会生成 `Client ID` 和 `Client Secret`，填入 `_config.yml` 下列的参数内
 
 ```
