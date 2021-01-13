@@ -10,3 +10,4 @@ tags:
         - 笔记
 ---
 
+## This guide was most recently updated on July 24th, 2018. Below are the package versions used:
