@@ -31,3 +31,4 @@ gem 'github-pages'
 
 The github-pages gem includes Jekyll, along with other dependencies and plugins you had available to your site on GitHub Pages.
 
+Since Netlify also needs to know what version of Ruby to run, put your version string in a file called `/.ruby-version` and we’ll use that version! If you don’t know, use version `2.4.3`.
