@@ -40,3 +40,5 @@ Adding a new site with Git is not a requirement for adding a site, but it’s st
 ![](/img/2017-05-11-migratingjekyllsite/01.png)
 
 Once your site is connected, you can find your Repository from the list GitHub repos. There is also a convenient search box in case you have more repositories than the page can fit.
+
+![](/img/2017-05-11-migratingjekyllsite/02.png)
