@@ -32,3 +32,7 @@ gem 'github-pages'
 The github-pages gem includes Jekyll, along with other dependencies and plugins you had available to your site on GitHub Pages.
 
 Since Netlify also needs to know what version of Ruby to run, put your version string in a file called `/.ruby-version` and we’ll use that version! If you don’t know, use version `2.4.3`.
+
+Once you have a Gemfile and a .ruby-version file, you can now connect your site to Netlify without issue.
+
+Adding a new site with Git is not a requirement for adding a site, but it’s strongly recommend to take advantage of all of Netlify’s continuous deployment features.
