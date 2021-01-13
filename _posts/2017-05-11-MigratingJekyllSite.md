@@ -44,3 +44,5 @@ Once your site is connected, you can find your Repository from the list GitHub r
 ![](/img/2017-05-11-migratingjekyllsite/02.png)
 
 Finally, you will just need to add the Jekyll build command and build location. For Jekyll that is `jekyll build` for the command and `_site` for the location.
+
+![](/img/2017-05-11-migratingjekyllsite/03.png)
