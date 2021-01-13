@@ -46,3 +46,9 @@ Once your site is connected, you can find your Repository from the list GitHub r
 Finally, you will just need to add the Jekyll build command and build location. For Jekyll that is `jekyll build` for the command and `_site` for the location.
 
 ![](/img/2017-05-11-migratingjekyllsite/03.png)
+
+You now have your Jekyll site on Netlify and can take advantage of some great features, like deploy previews and free custom domains with SSL.
+
+This article has a good list of things to configure after you deploy your site.
+
+If you made it this far and do not have a Jekyll site to try this out with, you can try out my Jekyll template.
