@@ -23,7 +23,6 @@ This post will cover how to move your Jekyll site from GitHub Pages to Netlify i
 If you have generated your Jekyll site using GitHub pages or forked a template there is a good chance you do not have a Gemfile. This is because GitHub pages will infer dependencies for you. If you would like to build your project outside of GitHub a Gemfile is needed and simple to create.
 
 In your GitHub repo create a new file with the name Gemfile and add the following content to it:
-
 ```
 source "https://rubygems.org"
 gem 'github-pages'
