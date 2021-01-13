@@ -36,3 +36,5 @@ Since Netlify also needs to know what version of Ruby to run, put your version s
 Once you have a Gemfile and a .ruby-version file, you can now connect your site to Netlify without issue.
 
 Adding a new site with Git is not a requirement for adding a site, but it’s strongly recommend to take advantage of all of Netlify’s continuous deployment features.
+
+![](/img/2017-05-11-migratingjekyllsite/01.png)
