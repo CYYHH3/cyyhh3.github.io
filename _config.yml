@@ -12,7 +12,7 @@ description: "I guess it comes down to a simple choice:get busy living or get bu
 # 关键词
 keyword: "Java, Kotlin, Android, Vue.js, Apple, iPhone"
 # 博客访问链接
-url: "https://blog.cyyb.tk"
+url: "https://blog.chenxs.tk"
 # '/blog' if your blog hosted on 'host/blog'
 baseurl: ""
 
@@ -83,9 +83,9 @@ gitalk:
 ba_track_id: 4a6e6c72729458bb38d25895dfb7a561
 
 # Google Analytics
-ga_track_id: 'G-0ZG1PX570Z'
+ga_track_id: 'G-2W2VXJGZT4'
 # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-ga_domain: blog.cyyb.tk
+ga_domain: blog.chenxs.tk
 
 ## 标签设置
 # 是否使用首页标签
