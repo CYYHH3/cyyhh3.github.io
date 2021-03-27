@@ -67,9 +67,9 @@ gitalk:
   #是否开启Gitalk评论
   enable: true
   #生成的clientID
-  clientID: 890af961fb1937f4b124
+  clientID: 173dfb72de1968632b9e
   #生成的clientSecret
-  clientSecret: 6b0018eaf4b055082238464296c1907c4c445dc2
+  clientSecret: 60b6380f89ad95b2e87d75dd7feeee8b495c0107
   #仓库名称
   repo: cyyhh3.github.io
   #github用户名
